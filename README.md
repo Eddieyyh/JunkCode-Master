@@ -64,20 +64,4 @@ androidJunkCode {
 
 ### 生成文件所在目录
 build/generated/source/junk
-
-### 使用插件[methodCount](https://github.com/KeepSafe/dexcount-gradle-plugin)对比
-
-#### 未加垃圾代码
-
-**项目代码占比 0.13%**
-
-![方法总数](images/before_total.jpg)![项目方法数](images/before_project.jpg)
-
-
-#### 加了垃圾代码
-
-**项目代码占比 52.93%**
-
-![方法总数](images/after_total.jpg)![项目方法数](images/after_project.jpg)# helloWorld
-
 [![](https://jitpack.io/v/Eddieyyh/JunkCode-Master.svg)](https://jitpack.io/#Eddieyyh/JunkCode-Master)
