@@ -79,3 +79,5 @@ build/generated/source/junk
 **项目代码占比 52.93%**
 
 ![方法总数](images/after_total.jpg)![项目方法数](images/after_project.jpg)# helloWorld
+
+[![](https://jitpack.io/v/Eddieyyh/JunkCode-Master.svg)](https://jitpack.io/#Eddieyyh/JunkCode-Master)
