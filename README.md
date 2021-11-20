@@ -11,7 +11,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath "com.github.qq549631030:android-junk-code:1.1.2"
+        classpath "com.github.Eddieyyh:android-junk-code:1.0.1"
     }
 }
 ```
@@ -66,16 +66,3 @@ androidJunkCode {
 build/generated/source/junk
 
 ### 使用插件[methodCount](https://github.com/KeepSafe/dexcount-gradle-plugin)对比
-
-#### 未加垃圾代码
-
-**项目代码占比 0.13%**
-
-![方法总数](images/before_total.jpg)![项目方法数](images/before_project.jpg)
-
-
-#### 加了垃圾代码
-
-**项目代码占比 52.93%**
-
-![方法总数](images/after_total.jpg)![项目方法数](images/after_project.jpg)# helloWorld
